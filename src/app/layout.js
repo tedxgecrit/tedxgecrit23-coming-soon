@@ -1,9 +1,9 @@
 import PoppinsFont from "@/components/PoppinsFont";
-import "./globals.css";
+import "@/app/styles/globals.css";
 
 export const metadata = {
-  title: "RIT | TEDx",
-  description: "RIT TEDx",
+  title: "TEDxGECRIT",
+  description: "TEDxGECRIT at Kottayam, Kerala, India",
 };
 
 export default function RootLayout({ children }) {
