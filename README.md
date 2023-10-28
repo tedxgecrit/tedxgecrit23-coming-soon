@@ -11,7 +11,6 @@
   "insertPragma": false,
   "singleAttributePerLine": false,
   "bracketSameLine": false,
-  "jsxBracketSameLine": false,
   "jsxSingleQuote": false,
   "printWidth": 80,
   "proseWrap": "preserve",
